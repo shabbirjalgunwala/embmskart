@@ -97,7 +97,7 @@ body{
     justify-items: center;
 }
 #contact h1{
-    padding: 3% 0%;
+    padding: 3% 0px;
     text-decoration: underline;
     color:black;
 }
@@ -106,7 +106,7 @@ body{
     height: 50px;
 }
 #contact h2{
-    padding: 2% 0%;
+    padding: 2% 0px;
     color: #333333;
     font-weight: bolder;
 }
@@ -423,3 +423,4 @@ body{
         margin-bottom: 10%;
     }
 }
+
