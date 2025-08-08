@@ -180,8 +180,8 @@ body{
     border: none;
     width: 21%;
     padding:1% 1%;
-    display:flex;
-    align-text:center;
+    display:inline-flex;
+    justify-content:center;
 }
 .allproducts button h3{
     color: white;
@@ -241,6 +241,7 @@ background-image: url(https://downpic.cc/photos/shutter/Downpic.cc-770952964.jpg
 background-image: url(https://i.ibb.co/Q7qXnsK6/image.png);
 background-image: url(https://i.ibb.co/MyLXShD6/image-1.png);
 */
+
 
 
 
