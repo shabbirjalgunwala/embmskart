@@ -153,7 +153,6 @@ body{
     box-shadow: 20px 20px 30px #ccc;
     border-radius: 50px;
     margin-top: 3%;
-    display:flex;
 }
 .allproducts:hover{
     box-shadow: 20px 20px 30px #cce;
@@ -179,7 +178,8 @@ body{
     margin-bottom: 20px;
     cursor: pointer;
     border: none;
-    width: 25%;
+    width: max-content;
+    height:max-content;
     padding:0% 2%;
     display:inline-flex;
     justify-content:center;
@@ -242,6 +242,7 @@ background-image: url(https://downpic.cc/photos/shutter/Downpic.cc-770952964.jpg
 background-image: url(https://i.ibb.co/Q7qXnsK6/image.png);
 background-image: url(https://i.ibb.co/MyLXShD6/image-1.png);
 */
+
 
 
 
